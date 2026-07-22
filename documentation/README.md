@@ -8,4 +8,3 @@ This directory contains hand-maintained project documentation for different aspe
 - `competency-questions-queries.md`: contains all the competency questions and their corresponding SPARQL queries.
 - `key-notions.md`: outlines the key notions of the ontology, including any connected patterns and datasets associated with them.
 - `use-case.md`: outlines the use case of the ontology, including the narrative and the list of competency questions.
-- `schema`: includes the .graphml file of the schema and a subdirectory containing screenshots of all the schema modules.
