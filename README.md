@@ -13,3 +13,5 @@ The MAGE-Ontology is an ontology design pattern that provides a structured repre
 * [`Ghidra Scripting/`](https://github.com/kastle-lab/MAGE-Ontology/tree/master/ghidra-scripting): Contains the Python scripts used to extract the data from the executable, parse the data, and materialize the knowledge graph.
 * [`Ontology/`](https://github.com/kastle-lab/MAGE-Ontology/tree/master/ontology): contains the OWL file of the ontology. Serialized in the Turtle format.
 * [`Queries/`](https://github.com/kastle-lab/MAGE-Ontology/tree/master/queries): contains the file that has all the SPARQL queries that were developed based on the competency questions.
+
+(Original repository with full commit history and non-ODP elements can be found here: https://github.com/22lavonne/MAGE-Ontology)
